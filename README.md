@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nabaraj Lamjel
 ======================================================================================================================================
 
@@ -35,4 +32,3 @@ Versatile professional proficient in both web development and data analysis, ade
                     </a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/Hadezz14"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Hadezz14&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
--->
